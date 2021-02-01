@@ -1,46 +1,6 @@
+# A Short Bio 
+Tao Li received the B.S. degree in Mathematics from Xiamen University, Xiamen, China in 2018. After a short visit to University of Alberta in Canada, he is now pursuing a Ph.D in Electrical Engineering at New York University. His research works focus on game theory, multi-agent decision making, online optimization and learning theory. The full CV can be found [here]()
 
 
-# Education
 
-* B.S. in Mathematics, Xiamen University, Xiamen, Chine, 2014-2018
-
-* Ph.D in Electrical Engineering, New York University, NY, USA, 2018-present 
-
-# Work experience
-
-* Research Assistant, 2018-present 
-  * Department of Electrical and Computer Engineering, New York University
-  * Topics: Human-Robot Interations and Decision Makings
-
-# Visting Positions
-
-* Visiting Researcher, June 2017-Oct 2017
-  * Department of Mathematical and Statistical Sciences, University of Alberta
-  * Topic: Applied Harmonic Analysis and its Applications on Imaging
-  * Host: Dr. [Bin Han](https://sites.ualberta.ca/~bhan/)
- 
-* Visiting Student, Aug. 2016
-  * St John's College, Cambridge University 
   
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
