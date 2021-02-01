@@ -1,31 +1,27 @@
 
 
-Education
-======
-* B.S. in Mathematics, Xiamen University, 2014-2018
+# Education
 
-* Ph.D in Electrical Engineering, New York University, 2018-present 
+* B.S. in Mathematics, Xiamen University, Xiamen, Chine, 2014-2018
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Electrical Engineering, New York University, NY, USA, 2018-present 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Work experience
+
+* Research Assistant, 2018-present 
+  * Department of Electrical and Computer Engineering, New York University
+  * Topics: Human-Robot Interations and Decision Makings
+
+# Visting Positions
+
+* Visiting Researcher, June 2017-Oct 2017
+  * Department of Mathematical and Statistical Sciences, University of Alberta
+  * Topic: Applied Harmonic Analysis and its Applications on Imaging
+  * Host: Dr. [Bin Han](https://sites.ualberta.ca/~bhan/)
+ 
+* Visiting Student, Aug. 2016
+  * St John's College, Cambridge University 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
