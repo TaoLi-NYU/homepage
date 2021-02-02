@@ -11,7 +11,7 @@ title                    : "Tao Li"
 title_separator          : "-"
 name                     : &name "Tao Li"
 description              : &description "PhD candidate at New York University"
-url                      : https://taoli_home.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://taoli-nyu.github.io/taoli_home.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TaoLi-NYU/taoli_home.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=l3iY1bkAAAAJ&hl=en"
   email            : "taoli@nyu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tao_Li188"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
