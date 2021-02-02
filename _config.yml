@@ -187,11 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
-# _posts
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -227,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _bio
+  # _portfolio
   - scope:
       path: ""
-      type: bio
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -244,15 +242,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-   # _notes
-   - scope:
-      path: ""
-      type: notes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
 
 # Sass/SCSS
 sass:
