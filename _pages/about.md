@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Tao Li's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # About me
-Weclome to my homepage! I am a Ph.D candidate in the Department of Electrical and Computer Engineering at New York University. Advised by Dr. [Quanyan Zhu](https://engineering.nyu.edu/faculty/quanyan-zhu), I am currently working on the following topics.
+I am a Ph.D candidate in the Department of Electrical and Computer Engineering at New York University. Advised by Dr. [Quanyan Zhu](https://engineering.nyu.edu/faculty/quanyan-zhu), I am currently working on the following topics.
 
 * Learning Theory for Multi-agent Systems
 * Large-scale Optimization and Machine Leanring
