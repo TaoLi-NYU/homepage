@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tao Li's Homepage"
 title_separator          : "-"
-logo                     :"/images/site-logo.png"
+logo                     : "/images/site-logo.png"
 name                     : &name "Tao Li"
 description              : &description "PhD candidate at New York University"
 url                      : https://taoli-nyu.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
